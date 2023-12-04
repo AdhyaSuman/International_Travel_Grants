@@ -3,13 +3,13 @@ Compilation of travel grants providing support for esteemed international confer
 +--------------------------------------------------------------------------------+------------------+----------------------------------------+
 | Grant Name                                                                     | Page             | Contact Info                           |
 +================================================================================+==================+========================================+
-| MSR India Academic Outreach                                                    | Link-1_          | travelgrants@microsoft.com             |
+| Microsoft-MSR India Academic Outreach                                          | Link-1_          | travelgrants@microsoft.com             |
 +--------------------------------------------------------------------------------+------------------+----------------------------------------+
-| Google Conference Scholarships (APAC)                                          | Link-2_          | research-programs-in@google.com        |
+| Google-Conference Scholarships                                                 | Link-2_          | research-programs-in@google.com        |
 +--------------------------------------------------------------------------------+------------------+----------------------------------------+
-| ACM India-IARCS travel grants                                                  | Link-3_          | travelgrants@iarcs.org.in              |
+| ACM-India-IARCS travel grants                                                  | Link-3_          | travelgrants@iarcs.org.in              |
 +--------------------------------------------------------------------------------+------------------+----------------------------------------+
-| SERB-International Travel Support (ITS)                                        | Link-4_          | ms.its@serb.gov.in                     |
+| SERB-International Travel Support                                              | Link-4_          | ms.its@serb.gov.in                     |
 +--------------------------------------------------------------------------------+------------------+----------------------------------------+
 
 .. _Link-1: https://www.microsoft.com/en-us/research/academic-program/academic-outreach/

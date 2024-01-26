@@ -1,4 +1,4 @@
-Compilation of travel grants providing support for esteemed international conferences, focusing on present Ph.D. students from India; nevertheless, exceptions may exist. Kindly notify if the links are functional for me to update them. Additionally, feel free to propose other grants to augment this list.
+Compilation of travel grants providing support for esteemed international conferences, focusing on present Ph.D. students from India; nevertheless, exceptions may exist. Kindly notify me if the links are non-functional. Additionally, feel free to propose other grants to augment this list.
 
 +--------------------------------------------------------------------------------+------------------+----------------------------------------+
 | Grant Name                                                                     | Page             | Contact Info                           |

@@ -31,7 +31,7 @@ This grant supports Ph.D. and Master's students (with thesis work), postdoctoral
 
 - ✈️ Found a broken link? Let us know!
 - 🌍 Know about other travel grants? Share them with us!
-- 🏆 Successfully received a grant? Share your experience by submitting a pull request or opening an issue on this [GitHub repository](https://github.com/AdhyaSuman/International_Travel_Grants/)!
+- 🏆 Successfully received a grant? Share your experience by submitting a pull request or opening an [issue](https://github.com/AdhyaSuman/International_Travel_Grants/issues/new/choose) on this GitHub repository!
 
 🌟 Happy travels and best of luck with your research! 🌟
 

@@ -18,7 +18,7 @@ If you find any broken links or know of additional grants that should be listed 
 
 | **Grant Name**                                      | 📄 **Application Page**                                                     | 📧 **Contact Email**                                                            |
 | --------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **ACM India Research Facilitation Grant (ACM-RFG)** | [📄 Apply Here](https://india.acm.org/research/research-facilitation-grant) | [📧 acmirfg@acmindia.org](mailto:acmirfg@acmindia.org) |
+| **ACM India Research Facilitation Grant (ACM-RFG)** | [📄 Apply Here](https://india.acm.org/research/research-facilitation-grant) | [📧 chair.research.fac@india.acm.org](mailto:chair.research.fac@india.acm.org) |
 
 This grant supports Ph.D. and Master's students (with thesis work), postdoctoral researchers, and early-career faculty members, especially from institutions with limited research funding. It covers expenses such as:
 - **Publication costs** in open-access venues.
@@ -27,11 +27,18 @@ This grant supports Ph.D. and Master's students (with thesis work), postdoctoral
 
 **Note:** This grant **does not** cover travel expenses for conferences.
 
+### 💡 Pro Tips for Maximizing Travel Support
+
+- 🤝 **Serve as a Volunteer**: Many conferences offer free registration or accommodation for student volunteers.
+- 🌈 **Diversity & Inclusion (D&I) Grants**: Some conferences provide D&I opportunities covering registration fees, accommodation, or partial travel expenses.
+- 🎯 **Apply Early**: Some grants have limited funding, so applying as soon as possible increases your chances.
+- 🏆 **Multiple Grants**: You can often combine different grants to cover various expenses like flights, registration, and accommodation.
+
 ### 🛫 How You Can Contribute
 
 - ✈️ Found a broken link? Let us know!
 - 🌍 Know about other travel grants? Share them with us!
-- 🏆 Successfully received a grant? Share your experience by submitting a pull request or opening an [issue](https://github.com/AdhyaSuman/International_Travel_Grants/issues/new/choose) on this GitHub repository!
+- 🏆 Successfully received a grant? Share your experience by submitting a pull request or opening an issue on this [GitHub repository](https://github.com/AdhyaSuman/International_Travel_Grants/)!
 
 🌟 Happy travels and best of luck with your research! 🌟
 

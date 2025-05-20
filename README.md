@@ -8,7 +8,7 @@ If you find any broken links or know of additional grants that should be listed 
 
 | **Grant Name**                             | 📄 **Application Page**                                                                             | 📧 **Contact Email**                                                      |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Microsoft: MSR India Academic Outreach** | [Apply Here](https://www.microsoft.com/en-us/research/academic-program/academic-outreach/)          | [travelgrants@microsoft.com](mailto:travelgrants@microsoft.com)           |
+| **Microsoft: MSR India Academic Outreach** | Link is Not Working -> [Link](https://www.microsoft.com/en-us/research/academic-program/academic-outreach/)| [travelgrants@microsoft.com](mailto:travelgrants@microsoft.com)           |
 | **Google: Conference Scholarships**        | [Apply Here](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)    | [research-programs-in@google.com](mailto:research-programs-in@google.com) |
 | **ACM-India: IARCS Travel Grants**         | [Apply Here](https://www.iarcs.org.in/activities/grants.php)                                        | [travelgrants@iarcs.org.in](mailto:travelgrants@iarcs.org.in)             |
 | **ANRF: International Travel Support**     | [Apply Here](https://anrfonline.in/ANRF/its)                                                        | [ms.its@serb.gov.in](mailto:ms.its@anrf.gov.in)                           |
